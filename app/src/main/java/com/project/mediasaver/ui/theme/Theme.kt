@@ -1,6 +1,5 @@
-package com.example.mediasaver.ui.theme
+package com.project.mediasaver.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

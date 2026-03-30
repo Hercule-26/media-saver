@@ -1,4 +1,4 @@
-package com.example.mediasaver
+package com.project.mediasaver
 
 import org.junit.Test
 

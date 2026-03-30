@@ -1,4 +1,4 @@
-package com.example.mediasaver.ui.theme
+package com.project.mediasaver.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
